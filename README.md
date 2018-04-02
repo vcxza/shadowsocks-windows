@@ -3,7 +3,6 @@ Shadowsocks for Windows
 
 [![Build Status]][Appveyor]
 
-[中文说明]
 
 #### Features
 
